@@ -7,13 +7,13 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Sumuk Shashidhar's Blog"
+    const siteTitle = "Kushal Thaman's Blog"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Blog"
-          keywords={[`blog`, `sumukshashidhar`, `sumuk`]}
+          keywords={[`blog`, `kushalthaman`, `kushal`]}
         />
         <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
         <h1>
