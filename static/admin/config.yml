@@ -6,9 +6,9 @@ media_folder: content/assets
 public_folder: ../assets
 
 collections:
-  - name: blog
-    label: Blog
-    folder: content/blog
+  - name: physics
+    label: Physics
+    folder: content/physics
     create: true
     fields:
       - { name: path, label: Path }
