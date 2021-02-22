@@ -34,11 +34,8 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, an incoming freshman. 
+              Written by <strong>{author}</strong>, a high school senior.  
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter
-              </a>
             </p>
           </Container>
         )
