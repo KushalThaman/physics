@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Kushal Thaman's Blog"
+    const siteTitle = "curl, div, undergrad and all that. "
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -15,19 +15,13 @@ class IndexPage extends React.Component {
           title="Blog"
           keywords={[`blog`, `kushalthaman`, `kushal`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
         <h1>
-          Hey people{" "}
-          <span role="img" aria-label="wave emoji">
-            👋
-          </span>
+         
         </h1>
-        <p>Welcome to my blog, where I make posts about my thoughts, stories and ideas.</p>
-        <p>
-          I blog semi-regularly about things that interest me, and about my life in general.
-        </p>
+        <p>Welcome to the physics section of my <a href = "http://kushalthaman.github.io/"> website </a>. Here, you'll see me frequently rant about  </p>
+ 
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Curl, Div, Undergrad</Button>
         </Link>
       </Layout>
     )
