@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>Sumuk Shashidhar's Blog</ShortName>
-  <Description>Sumuk Shashidhar's Blog</Description>
-  <Url type="text/html" method="get" template="https://blog.sumukshasidhar.com/"/>
+  <ShortName>curl, div, undergrad</ShortName>
+  <Description>and all that. </Description>
+  <Url type="text/html" method="get" template="https://kushalthaman.netlify.app/"/>
 </OpenSearchDescription>
