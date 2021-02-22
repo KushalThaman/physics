@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Sumuk Shashidhar's Blog`,
-    author: `Sumuk Shashidhar`,
+    title: `Kushal's Blog`,
+    author: `Kushal Thaman`,
     description: `A simple collection of my thoughts and ideas.`,
-    siteUrl: `https://blog.sumukshashidhar.com`,
+    siteUrl: `https://kushalthaman.github.io`,
     social: {
-      twitter: `sumukshashidhar`,
+      twitter: `kushalthaman`,
     },
   },
   plugins: [
@@ -108,7 +108,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-         trackingId: `G-N8JWVSFL64`,
+         //trackingId: `G-N8JWVSFL64`,
       },
     },
     {

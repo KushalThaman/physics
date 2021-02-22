@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sumukshashidhar/blog 
+  repo: KushalThaman/physics 
 
 media_folder: content/assets
 public_folder: ../assets
